@@ -1,2 +1,2 @@
 # wallet
-i've created backend of a paytm clone wallet
+i've created frontend for a paytm clone wallet
